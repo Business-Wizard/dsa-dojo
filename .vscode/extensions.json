@@ -10,6 +10,10 @@
         "usernamehw.errorlens",
         "davidanson.vscode-markdownlint",
         "ms-azuretools.vscode-docker",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "tamasfe.even-better-toml",
+        "ms-python.mypy-type-checker",
+        "charliermarsh.ruff",
+        "rust-lang.rust-analyzer"
     ]
 }
