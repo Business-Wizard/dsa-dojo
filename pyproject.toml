@@ -1,15 +1,16 @@
 [tool.poetry]
-name = "PROJECT_NAME"
+name = "DSA-Dojo"
 version = "0.0.0"
-description = "DESCRIPTION"
-authors = ["Your Name <you@example.com>"]
-license = "Proprietary"
+description = "Collection of practice sessions of data structures and algorithms."
+authors = [
+    "Business-Wizard <49175856+Business-Wizard@users.noreply.github.com >",
+]
+license = "TBD"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.12"
 invoke = ">=2.0.0"
-pyyaml = "^6.0"
 
 
 [tool.poetry.group.dev.dependencies]
